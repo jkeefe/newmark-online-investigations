@@ -15,13 +15,27 @@ augment classic investigative reporting techniques with audience engagement, mac
 
 We will work as a team, and on sub-teams, with opportunities for individual focus in any of these areas. Together, all students will take part in contemporary tactics used by today’s leading news organizations. Student work Quartz publishes will be credited by name.
 
-# Logistics and Details
+Our objective is to learn real skills around considering and conducting online investigations by conducting — and, we hope, publishing — an actual investigative report. 
 
-Here's what you need to know to succeed in this class.
+# Weekly Meetings
 
 ## Location
 
-We generally meet in Room 432 every Monday from 9:30 a.m. to 12:20 pm, including a break. That said, there are a few modifications due to holidays, so check out the dates below.
+We meet in Room 432 every Monday from 9:30 a.m. to 12:20 pm, including a break. That said, there are a few modifications due to holidays, so check out the dates below. We may also plan one or two classes off site.
+
+## Structure
+
+Generally the first half of each class will consist of a knowledge-building lesson and discussion, and often a review of the submitted assignments.
+
+After a break, you will work directly on your investigation — brainstorming, researching, writing, coordinating with teammates, analyzing data, coding, making charts, editing, and/or meeting with the instructor. This is *your* time to get things done and work with your teammates. Use it wisely!
+
+## Participation
+
+This is a team-based class, and your participation is key for all 15 classes. You'll note below that being absent really hurts your grade, and right away. That's intentional — I'm placing a premium on being present.
+
+If you are absent for some reason, be sure to seek out and do the assignment for the week. You don't want to lose those points as well.
+
+# Tools 
 
 ## Computers in Class
 
@@ -39,19 +53,25 @@ Our Slack is [onlineinvestigations.slack.com](https://onlineinvestigations.slack
 
 Please format your "display name" using your full name, a slash, and your role. Like: **John Keefe / Instructor** or **Lisa Simpson / Student**. This will be especially helpful when other journalists join us.
 
+## Google Drive
+
+We'll be using a shared Google Drive folder to keep track of important documents, the investigation plan, and who's doing what. 
+
+# Grading
+
 ## Assignments
 
-There will be one assignment announced in class and posted on this site on class day. Responses to assignments are due via Slack _by 8 a.m. on the day of the next class._ Unless otherwise noted, these are due in a "public" channel, such as `#general`; please don't submit them to me directly via private message. 
+Each class will include an assignment, announced in class and posted on this site the same day. Assignments are due by _noon on the Friday before the next class_. Note that these Fridays may occur during holidays, so save yourself some stress and get them in _before_ the holiday begins.
 
-My intention is that most work for these assignments can be completed in class.
-
-## Grading
+## Points
 
 There are 100 points possible.
 
 * **Attendance:** 45 points possible, 3 points for each class attended. 
 * **Assignments:** 45 points possible, 3 points for each assignment successfully completed on time. Incomplete or low-effort submissions will receive fewer or zero points. Assignments turned in after they are due receive a maximum of 1 point.
-* **Participation & Progress:** 10 points possible. This will be scored based on your active participation and contribution in class. Note that absences will naturally cut into your participation score.
+* **Participation & Progress:** 10 points possible. This will be scored based on your active participation and contribution in class and in the investigation. Note that absences will naturally cut into your participation score.
+
+## Scale
 
 | Points | Grade |
 | ------ | ----- |
@@ -66,19 +86,13 @@ There are 100 points possible.
 | 70-72 | C- |
 | < 70 | F |
 
-## Absences
-
-Note that being absent really hurts your grade, and right away. But that's intentional — this is a team class, and your participation is key for you and your classmates.
-
-If you are absent for some reason, be sure to seek out and do the assignment for the week. You don't want to lose those points as well.
-
 ## Plagiarism
 
 Plagiarism is the use of another’s ideas or words, video or recordings, or ideas without properly and clearly acknowledging the source of the information.
 
 This is a journalism class; facts and honesty are our greatest asset. Presenting the work of others as your own is wrong and won't be tolerated. Doing so may result in a significant reduction of accumulated points and possible failure of the class.
 
-When using code or ideas from other sources -- even free, open-sourced code -- be sure to abide by any applicable licenses and include references and links back to the code and licenses. The lack of a license does not mean it's free to use. If you have questions about this, have a conversation about it with the instructor.
+When using code or ideas from other sources -- even free, open-sourced code -- be sure to abide by any applicable licenses and include references and links back to the code and licenses. The lack of a license does not mean it's free to use. If you have questions about this, have a conversation with the instructor.
 
 If you are inspired by others, note it. It's just right.
 
@@ -90,13 +104,9 @@ Please note that other forms of academic dishonesty include:
 - Fabrication of information, quotes, or sources.
 - Impeding the work of others.
 
-# Syllabus and Class Notes
+# Class Plan
 
-Generally, each class will start with a knowledge-building lesson and/or discussion. Specific class notes for these lessons will be posted on this site before each class.
-
-After a break, you will usually work directly on your investigation — coordinating with teammates, conducting research, analyzing data, making charts, writing, and/or meeting with the instructor.
-
-Below is a rundown of what I expect we'll cover in our weeks together. Be very aware, though, that this is a live journalism class: we will be working on real investigations we hope to publish, and we won't know the shape of those investigations at the outset. That means our class plans may change. Significant changes in class lessons, topics, or plans will be announced in class, posted in the `#general` Slack channel, and updated here at least a week ahed of time.
+Below is a rundown of what I expect we'll cover in our weeks together. Be very aware, though, that this is a live journalism class: we will be working on real investigations we hope to publish, and we won't know the shape of those investigations at the outset. That means our class plans may change to help you succeed in your investigation. Significant changes in class lessons, topics, or plans will be announced in class, posted in the `#general` Slack channel, and updated here at least a week ahed of time.
 
 **Notes** for each lesson will be posted here before each class.
 
@@ -123,10 +133,13 @@ Hello! In this class we'll get to know each other, agree on the logistics and ou
         - Slack is better!
         
 - Walk through everything at the top of this document, and answer any questions you may have.
+- What we mean when we say "investigative journalism."
+- Discuss the creation of the [Quartz investigations team](https://qz.com/1703981/quartz-will-use-audience-and-ai-to-investigate-online-political-influence/) including what encompasses "online political influence" and "[The New Propaganda](https://qz.com/on/new-propaganda/)"
 - We'll voice observations, curiosities, and concerns that might make for good investigations
 - We'll talk about platforms, communication channels, and more.
-- Newsletters and sources you should get hip to 
-
+- Newsletters and sources you should monitor.
+    - [First Draft](https://firstdraftnews.org/) (click on the envelope)
+    -  
 - What it means to run an open investigation
     - Sketch out a social-media / tips / data / story / tips / etc plan
 
@@ -136,7 +149,7 @@ Hello! In this class we'll get to know each other, agree on the logistics and ou
 
 
 
-Due by 8 a.m. on February 3.
+Due by noon on the Friday before the next class.
 
 # Class 2 • Feb 3
 
