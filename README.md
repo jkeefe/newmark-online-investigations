@@ -15,7 +15,9 @@ augment classic investigative reporting techniques with audience engagement, mac
 
 We will work as a team, and on sub-teams, with opportunities for individual focus in any of these areas. Together, all students will take part in contemporary tactics used by today’s leading news organizations. Student work Quartz publishes will be credited by name.
 
-Our objective is to learn real skills around considering and conducting online investigations by conducting — and, we hope, publishing — an actual investigative report. 
+Our objective is to learn real skills around considering and conducting online investigations by conducting — and, we hope, publishing — an actual investigative report.
+
+In this class, as we do at Quartz, we celebrate, encourage, and foster a spirit of generosity and the force of ideas.
 
 # Weekly Meetings
 
@@ -25,9 +27,9 @@ We meet in Room 432 every Monday from 9:30 a.m. to 12:20 pm, including a break. 
 
 ## Structure
 
-Generally the first half of each class will consist of a knowledge-building lesson and discussion, and often a review of the submitted assignments.
+Generally the first half of each class will consist of a knowledge-building lesson and discussion, and often a review of the previous week's assignment.
 
-After a break, you will work directly on your investigation — brainstorming, researching, writing, coordinating with teammates, analyzing data, coding, making charts, editing, and/or meeting with the instructor. This is *your* time to get things done and work with your teammates. Use it wisely!
+After a break, we will work directly on our investigations — brainstorming, researching, writing, coordinating with teammates, analyzing data, coding, making charts, editing, and/or meeting with the instructor. This is *your* time to get things done and work with your teammates. Use it wisely!
 
 ## Participation
 
@@ -61,7 +63,7 @@ We'll be using a shared Google Drive folder to keep track of important documents
 
 ## Assignments
 
-Each class will include an assignment, announced in class and posted on this site the same day. Assignments are due by _noon on the Friday before the next class_. Note that these Fridays may occur during holidays, so save yourself some stress and get them in _before_ the holiday begins.
+Each class will include an assignment, announced in class and posted on this site the same day. Assignments are due by _5 p.m. on the Friday before the next class_. Note that these Fridays may occur during holidays, so save yourself some stress and get them in _before_ the holiday begins.
 
 ## Points
 
@@ -104,17 +106,19 @@ Please note that other forms of academic dishonesty include:
 - Fabrication of information, quotes, or sources.
 - Impeding the work of others.
 
-# Class Plan
+# Class Plans
 
 Below is a rundown of what I expect we'll cover in our weeks together. Be very aware, though, that this is a live journalism class: we will be working on real investigations we hope to publish, and we won't know the shape of those investigations at the outset. That means our class plans may change to help you succeed in your investigation. Significant changes in class lessons, topics, or plans will be announced in class, posted in the `#general` Slack channel, and updated here at least a week ahed of time.
 
 **Notes** for each lesson will be posted here before each class.
 
-**Assignments** are due at 8 a.m. on the day of the next class (see details above).
+**Assignments** are due at 5 p.m. on the Friday prior to the next class.
 
 # Class 1 • Jan 27
 
-Hello! In this class we'll get to know each other, agree on the logistics and outlines of the semester, and dive into the plan. We'll also discuss possibilities and ideas for investigative pursuits. 
+**Kickoff:** Hello! In the first class we'll get to know each other and discuss the logistics and outlines of the semester. We'll also explore the basics of investigative reporting and the mission of the investigations team at Quartz — which you are essentially joining starting today.
+
+**Investigations:** What are we going to investigate? That planning begins today with discussion, research, and some brainstorming.
 
 ## Notes
 
@@ -135,35 +139,62 @@ Hello! In this class we'll get to know each other, agree on the logistics and ou
 - Walk through everything at the top of this document, and answer any questions you may have.
 - What we mean when we say "investigative journalism."
 - Discuss the creation of the [Quartz investigations team](https://qz.com/1703981/quartz-will-use-audience-and-ai-to-investigate-online-political-influence/) including what encompasses "online political influence" and "[The New Propaganda](https://qz.com/on/new-propaganda/)"
-- We'll voice observations, curiosities, and concerns that might make for good investigations
-- We'll talk about platforms, communication channels, and more.
-- Newsletters and sources you should monitor.
-    - [First Draft](https://firstdraftnews.org/) (click on the envelope)
-    -  
 - What it means to run an open investigation
     - Sketch out a social-media / tips / data / story / tips / etc plan
-
 - Conduct a quick survey
+    
+- Break
+
+- Discuss the results of that survey    
+- Who else is doing this kind of work?
+    - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
+    - [Snopes](https://twitter.com/alexkasprak/status/1212049188176846849?s=20)
+        - [EXCLUSIVE: Expanding Pro-Trump Outlet ‘The BL’ Is Closely Linked to The Epoch Times](https://www.snopes.com/news/2019/10/11/pro-trump-outlet-linked-epoch-times/)
+        - [How a Pro-Trump Network Is Building a Fake Empire on Facebook and Getting Away with It](https://www.snopes.com/news/2019/11/12/bl-fake-profiles/)
+        - [Hiding in Plain Sight: PAC-Connected Activists Set Up ‘Local News’ Outlets](https://www.snopes.com/news/2019/03/04/activists-setup-local-news-sites/)
+
+- Begin the brainstorming
+    - Voice observations, curiosities, and concerns that might make for good investigations
+    - Talk about platforms, communication channels, and more.
 
 ## Assignment
 
+- **Find** three press articles that touch on three different issues that interest you and you think might be ripe for investigating further. 
+- **Post** a separate Slack message about each article in the `#articles-stories` channel that includes a link to the article and sentence or two explaining a) what caught your eye and b) how we might build on it with an investigation. You can't post an article someone else has already posted! So act fast :-)
+- **Read** the Senate intelligence committee report on Russia's interference in the 2016 US election (Volume 2 - [Russia's use of Social Media](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf)
 
-
-Due by noon on the Friday before the next class.
+Due by 5 pm on the Friday prior to the next class.
 
 # Class 2 • Feb 3
 
+**Anatomy of a Facebook Investigation** You'll learn about a powerful tool we have at our disposal — The Facebook Political Ad Collector — from one of the creators of that tool, Quartz's Jeremy B. Merrill. He'll walk you through how it works and how you can use it.
 
+Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector led to a huge investigation into a gold- and silver-selling scheme that cheats conservative older people out of their retirement savings.
 
-# Class 3 • Feb 10
-
-
+**Investigations** We'll review and discuss the stories you found and use those as a jumping-off point to explore and, we hope, zero in on avenues of exploration. We will likely define our initial teams as well.
 
 ## Assignment
 
-TBD! Due by 8 a.m. on the next class day.
+- **Watch** [this online investigations video from ONA 2019](https://livestream.com/accounts/26035773/events/8806759/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false).
+- **Follow along** with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19). Focus in particular on the tools Jane Lytvynenko uses starting on slide 31.
+- **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. 
+- **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel. Try to use examples related to your investigation.
 
-**Note!** No class next week.
+# Class 3 • Feb 10
+
+**Working securely:** Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
+
+**Investigations:** In class, we will begin following leads, conducting research, collecting data, and testing our hypotheses. 
+
+**Reminder:** No class next week.
+
+## Assignment
+
+- **Follow** these instructions to [dox yourself](https://gijn.org/2019/04/08/how-to-dox-yourself/). Do all of the searches they describe, in each platform. Totally optional: Consider taking some of the additional security steps they suggest.
+- **Post** into the `#general` Slack channel:
+    - On your honor, a statement that you completed the assignment
+    - Any additional (and optional) security steps you took
+    - The most unexpected thing you found in your searches (tho don't reveal anything secret)
 
 # Class 4 • Feb 24
 
@@ -180,7 +211,7 @@ TBD! Due by 8 a.m. on the next class day.
 
 # Class 10 • Apr 6
 
-**Note!** No class next week.
+**Reminder:** No class next week.
 
 # Class 11 • April 20
 

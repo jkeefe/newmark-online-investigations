@@ -6,7 +6,7 @@
 - For each article, post a separate Slack message in the `#articles-stories` channel that includes the link and a sentence or two about the article explaining a) what caught your eye and b) how we might build on it with an investigation.  
 - You can't post articles someone else has posted! So act fast :-)
 
-- Dox yourself
+- Dox yourself: https://gijn.org/2019/04/08/how-to-dox-yourself/
 
 - Watch [this online investigations video from ONA 2019](https://livestream.com/accounts/26035773/events/8806759/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false).
 - Follow along with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19) Focus in particular with the tools Jane Lytvynenko uses starting on slide 31.
@@ -16,12 +16,21 @@
 
 - Read about influence efforts in other countries: Brazil, Brexit, Ukraine, elsewhere
 
+- Spring break: 
+    - https://twitter.com/klonick/status/1102970732890316801
+
+
+
 
 ## Survey
 
 - Name
 - Name you go by
 - This is my ____ semester at Newmark J-School
+- What human languages do you read or speak?
+- You're an expert in something. What is it?
+- What are you a beginner at?
+- What's your journalism-related superpower?
 - What apps to you use at least once a week
     - Twitter
     - Facebook
@@ -145,6 +154,28 @@
 - [Thousands of misleading (UK) Conservative ads side-step scrutiny thanks to Facebook policy](https://firstdraftnews.org/latest/thousands-of-misleading-conservative-ads-side-step-scrutiny-thanks-to-facebook-policy/?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter)
 
 
+## Potential Investigative threads
+
+
+
+## Potential Lessons
+
+## Intro to AI for journalism
+
+Artificial intelligence is a huge field, and the use of AI by corporations and governments is a huge issue in our society. The algorithms themselves, however, are not inherently problematic and can be used by responsible journalists to help in their investigations. We'll explore some of the services available and how you might use them for your journalism.
+
+You'll also get hands-on experience using an open-source machine learning library to solve a specific problem of finding images in a huge pile of data, as you might have to do for a journalistic investigation.
+
+<a href="https://keefe.cc/newmark-design-development/THE_NOTES.html#class10">Notes for this class</a>.
+
+## Bespoke machine learning for sorting text
+
+You'll get more hands-on experience in machine learning, this time to sort text documents into useful categories -- helping you do in hours what might otherwise take you days.
+
+
+## Class 14 • Data security: For you, your sources, and your audience
+
+Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
 
 
 
