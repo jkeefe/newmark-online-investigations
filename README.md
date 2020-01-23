@@ -147,6 +147,7 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 
 - Discuss the results of that survey    
 - Who else is doing this kind of work?
+    - [Buzzfeed](https://twitter.com/JaneLytv/status/1219675021389582341?s=20)
     - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
     - [Snopes](https://twitter.com/alexkasprak/status/1212049188176846849?s=20)
         - [EXCLUSIVE: Expanding Pro-Trump Outlet ‘The BL’ Is Closely Linked to The Epoch Times](https://www.snopes.com/news/2019/10/11/pro-trump-outlet-linked-epoch-times/)

@@ -178,4 +178,20 @@ You'll get more hands-on experience in machine learning, this time to sort text 
 Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
 
 
+----
+
+## Checklist
+
+- Would uncovering this be a civic good?
+- Are there victims?
+- Are we punching up?
+- Is it something hidden, intentionally or otherwise?
+- Is there a remedy we can identify?
+- Has someone else done this in a way we couldn't do better?
+
+## Tools
+
+- https://hoaxy.iuni.iu.edu/
+
+
 
