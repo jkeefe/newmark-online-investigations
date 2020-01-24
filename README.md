@@ -122,6 +122,8 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 
 ## Notes
 
+### Kickoff
+
 - Introductions
     - Around the room ...
         - Who are you?
@@ -137,15 +139,88 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
         - Slack is better!
         
 - Walk through everything at the top of this document, and answer any questions you may have.
-- What we mean when we say "investigative journalism."
 - Discuss the creation of the [Quartz investigations team](https://qz.com/1703981/quartz-will-use-audience-and-ai-to-investigate-online-political-influence/) including what encompasses "online political influence" and "[The New Propaganda](https://qz.com/on/new-propaganda/)"
-- What it means to run an open investigation
-    - Sketch out a social-media / tips / data / story / tips / etc plan
+
 - Conduct a quick survey
     
-- Break
+### Break
 
-- Discuss the results of that survey    
+### Advertising & Privacy
+
+- Consider the spectrum
+  - You
+  - Info about you
+    - Your physical appearance
+    - Your name
+    - Where you live
+    - Who you know
+    - Where you are right now
+  - Services you use
+    - Apple phone
+    - Google Android phone
+    - Google maps
+    - Google docs
+    - Google calendar
+    - Google home
+    - Gmail
+    - Twitter
+    - Facebook / Instagram / WhatsApp
+    - LinkedIn
+    - Amazon Alexa
+  - Information you provide to services you use
+    - Image
+    - Profile
+    - Age / Birthday
+    - Likes
+    - Friends
+    - Family
+    - Photographs
+    - Work info
+    - Your location 
+    - Your address book
+    - What you write
+    - What you buy
+    - What you considered buying
+  - Supplemental info
+    - Your credit history
+    - Where you live
+    - Where you have ever lived
+    - Where you have ever worked
+    - The people near you now
+    - The things people near you like and buy
+  - Advertising to specific groups of people
+    - Companies want to target people for products and services
+    - Ad platforms contend that's a consumer benefit, too
+    - Political campaigns want to target people
+    - Less-scrupulous companies want to target vulnerable people ... without tipping off watchdogs
+    
+**Participation alert:** As you see ads and messages in your accounts, screenshot the political ones and post them in the `#spotted channel`. 
+
+### What do platforms know about you?
+
+Let's find out ...
+
+- Facebook
+- Instagram
+- Twitter
+- Google
+- Apple
+
+- Take notes on these questions:
+  - What were you surprised they knew?
+  - What did they get completely wrong?
+  - What did they say about your politics?
+  
+### Organic Messaging
+
+- Discuss the results of that survey
+
+### Invesigations
+
+- What we mean when we say "investigative journalism."
+- Class criteria for our pursuits
+- What it means to run an open investigation
+- Having a social-media / tips / data / story / tips / etc plan
 - Who else is doing this kind of work?
     - [Buzzfeed](https://twitter.com/JaneLytv/status/1219675021389582341?s=20)
     - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
@@ -172,14 +247,9 @@ Due by 5 pm on the Friday prior to the next class.
 
 Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector led to a huge investigation into a gold- and silver-selling scheme that cheats conservative older people out of their retirement savings.
 
-**Investigations** We'll review and discuss the stories you found and use those as a jumping-off point to explore and, we hope, zero in on avenues of exploration. We will likely define our initial teams as well.
+**Investigations** We'll review and discuss the stories you found and use those as a jumping-off point to explore and, we hope, zero in on avenues of exploration. We will also define our initial teams.
 
-## Assignment
-
-- **Watch** [this online investigations video from ONA 2019](https://livestream.com/accounts/26035773/events/8806759/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false).
-- **Follow along** with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19). Focus in particular on the tools Jane Lytvynenko uses starting on slide 31.
-- **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. 
-- **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel. Try to use examples related to your investigation.
+### 
 
 # Class 3 • Feb 10
 
@@ -199,6 +269,15 @@ Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector le
 
 # Class 4 • Feb 24
 
+
+
+
+## Assignment
+
+- **Watch** [this online investigations video from ONA 2019](https://livestream.com/accounts/26035773/events/8806759/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false).
+- **Follow along** with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19). Focus in particular on the tools Jane Lytvynenko uses starting on slide 31.
+- **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. 
+- **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel. Try to use examples related to your investigation idea.
 
 # Class 5 • Mar 2
 
