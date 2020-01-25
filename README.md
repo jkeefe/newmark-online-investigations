@@ -218,9 +218,21 @@ Let's find out ...
 ### Invesigations
 
 - What we mean when we say "investigative journalism."
-- Class criteria for our pursuits
+- **Class criteria** for our pursuits:
+
+  - Does it fit the mission: "
+  - Would uncovering this be a civic good?
+  - Are there victims?
+  - Are we punching up?
+  - Is it something hidden, intentionally or otherwise?
+  - Is there a remedy we can identify?
+  - Has someone else done this in a way we couldn't do better?
+  
 - What it means to run an open investigation
 - Having a social-media / tips / data / story / tips / etc plan
+  - Quartz callouts
+  - [Recent ProPublica call out](https://twitter.com/propublica/status/1220700413143474177?s=21)
+  - Farhenthod's callouts
 - Who else is doing this kind of work?
     - [Buzzfeed](https://twitter.com/JaneLytv/status/1219675021389582341?s=20)
     - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
@@ -229,6 +241,11 @@ Let's find out ...
         - [How a Pro-Trump Network Is Building a Fake Empire on Facebook and Getting Away with It](https://www.snopes.com/news/2019/11/12/bl-fake-profiles/)
         - [Hiding in Plain Sight: PAC-Connected Activists Set Up ‘Local News’ Outlets](https://www.snopes.com/news/2019/03/04/activists-setup-local-news-sites/)
 
+- You will be published!
+  - Call-out stories to encourage participation in your project 
+  - ANY good leads you may encounter foe this project, or just in life
+  - Your final investigation
+  
 - Begin the brainstorming
     - Voice observations, curiosities, and concerns that might make for good investigations
     - Talk about platforms, communication channels, and more.
@@ -236,28 +253,64 @@ Let's find out ...
 ## Assignment
 
 - **Find** three press articles that touch on three different issues that interest you and you think might be ripe for investigating further. 
-- **Post** a separate Slack message about each article in the `#articles-stories` channel that includes a link to the article and sentence or two explaining a) what caught your eye and b) how we might build on it with an investigation. You can't post an article someone else has already posted! So act fast :-)
-- **Read** the Senate intelligence committee report on Russia's interference in the 2016 US election (Volume 2 - [Russia's use of Social Media](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf)
+- **Post** a separate Slack message about each article in the `#coverage` channel that includes a link to the article and sentence or two explaining a) what caught your eye and b) how we might build on it with an investigation. You can't post an article someone else has already posted! So act fast :-)
+- **Read** the Senate intelligence committee report on Russia's interference in the 2016 US election (Volume 2 - [Russia's use of Social Media](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf) Look for the parts you find particularly interesting. 
 
 Due by 5 pm on the Friday prior to the next class.
 
 # Class 2 • Feb 3
 
-**Anatomy of a Facebook Investigation** You'll learn about a powerful tool we have at our disposal — The Facebook Political Ad Collector — from one of the creators of that tool, Quartz's Jeremy B. Merrill. He'll walk you through how it works and how you can use it.
+**Anatomy of a Facebook Investigation** You'll learn about a powerful tool we have at our disposal — The Facebook Political Ad Collector — from one of its creators, Quartz's Jeremy B. Merrill. He'll walk you through how it works and how you can use it.
 
 Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector led to a huge investigation into a gold- and silver-selling scheme that cheats conservative older people out of their retirement savings.
 
-**Investigations** We'll review and discuss the stories you found and use those as a jumping-off point to explore and, we hope, zero in on avenues of exploration. We will also define our initial teams.
+**Investigations** We'll review and discuss the stories you found and use those as a jumping-off point to explore and, we hope, zero in on avenues of exploration. 
 
-### 
+We will also define our initial teams.
+
+### Assignment
+
+Each team crafts TWO story pitches, each consisting of:
+
+- A description of the story, including your base thesis, assuming it works out as you imagine (1 paragraph)
+- What you already know, or are pretty sure about (1 paragraph)
+- What you'd need to find out. (1 paragraph)
+- The headline. Assuming everything goes as you think it might.
+- Whether or not it fits into each item of our investigations checklist, and how it does or does not. (X sentences)
+
+Write each pitch as a separate google doc in our shared class folder and post the links to each document in your team slack. An example doc is in the class folder. 
+
+Due by 5 pm this Friday — so be sure to meet again with your team this week to complete it. 
+
 
 # Class 3 • Feb 10
 
 **Working securely:** Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
 
-**Investigations:** In class, we will begin following leads, conducting research, collecting data, and testing our hypotheses. 
+**Investigations:** You will get feedback and possibly a green light for one of your pitches. Depending on the result, we will refine the pitches and craft a **plan** to pursue your story and begin following leads, conducting research, collecting data, and testing your thesis.
+
+Plan system must be visible to me, other journalists, for where you are at, what you need to do next, etc. Use what works best -- for all, or for the chief organizer!
 
 **Reminder:** No class next week.
+
+## Assignment
+
+- **Watch** [this online investigations video from ONA 2019](https://livestream.com/accounts/26035773/events/8806759/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false).
+- **Follow along** with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19). Focus in particular on the tools Jane Lytvynenko uses starting on slide 31.
+- **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. Use them on issues and sources related to your investigation. 
+- **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel.
+- **Continue** following your story plan and be prepared to give an update to the class on:
+  - Progess
+  - Blockers
+  - Next steps 
+
+
+# Class 4 • Feb 24
+
+**Skill building:** We'll have a guest speaker talk about how to use DomainTools.
+
+**Investigations:** You'll present your status report to the entire class for feedback and retooling. We will also consider images, charts, interactives. And we'll draft plans for how you might engage your audience to help you. 
+
 
 ## Assignment
 
@@ -266,36 +319,63 @@ Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector le
     - On your honor, a statement that you completed the assignment
     - Any additional (and optional) security steps you took
     - The most unexpected thing you found in your searches (tho don't reveal anything secret)
-
-# Class 4 • Feb 24
-
-
-
-
-## Assignment
-
-- **Watch** [this online investigations video from ONA 2019](https://livestream.com/accounts/26035773/events/8806759/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false).
-- **Follow along** with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19). Focus in particular on the tools Jane Lytvynenko uses starting on slide 31.
-- **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. 
-- **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel. Try to use examples related to your investigation idea.
+- **Write** as a team your story for calling out participation in your story. 
 
 # Class 5 • Mar 2
 
+**Skill building:** Learn about building charts using Datawrapper.
+
+**Inveatigations:** Collaboration time. And together incorporate the edits for your participation piece. 
+
 # Class 6 • Mar 9
+
+**Skill building:** Machine learning for invesigations I - images
+
+**Inveatigations:** Writing your first draft. 
+
+## Assignment
+
+
 
 # Class 7 • Mar 16
 
+**Skill building:** Machine learning for invesigations II - text
+
+**Investigations:** Complete the first draft
+
+## assignment
+
+First draft due. 
+
 # Class 8 • Mar 23
 
+**Skill building:** Basic data analysis using Python. 
+
+**Investigations:** Consider feedback. Begin incorporating that and rewriting. 
+
 # Class 9 • Mar 30
+
+**Investigations:** Work in class on final story. 
+
+## assignment 
+
+Submit final story 
 
 # Class 10 • Apr 6
 
 **Reminder:** No class next week.
 
+## assignment 
+
+No spring break assignment. Everyone gets 3 points. 
+
 # Class 11 • April 20
 
+**Investigations:** Assemble final stories for publication. 
+
 # Class 12 • Apr 27
+
+**Investigations:** Report on reader feedback, tips, etc. 
 
 # Class 13 • May 4
 
