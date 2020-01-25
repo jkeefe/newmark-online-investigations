@@ -226,7 +226,7 @@ Let's find out ...
   - Are we punching up?
   - Is it something hidden, intentionally or otherwise?
   - Is there a remedy we can identify?
-  - Has someone else done this in a way we couldn't do better?
+  - Has someone else done this recently and in a way we couldn't do better?
   
 - What it means to run an open investigation
 - Having a social-media / tips / data / story / tips / etc plan
@@ -287,11 +287,13 @@ Due by 5 pm this Friday — so be sure to meet again with your team this week to
 
 **Working securely:** Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
 
-**Investigations:** You will get feedback and possibly a green light for one of your pitches. Depending on the result, we will refine the pitches and craft a **plan** to pursue your story and begin following leads, conducting research, collecting data, and testing your thesis.
+**Investigations:** You will get feedback and possibly a green light for one of your pitches.
 
-Plan system must be visible to me, other journalists, for where you are at, what you need to do next, etc. Use what works best -- for all, or for the chief organizer!
+Green-lighted teams will craft a **plan** to pursue your story and begin following leads, conducting research, collecting data, and testing your thesis.
 
-**Reminder:** No class next week.
+They will also agree on a shared **system** for tracking what needs to be done, and who is doing what. Plan system must be set up to be understandable and visible to me and other journalists. I should be able to scan it to see your progress, where you are at, what you need to do next, etc. Use what works best -- for all, or for the chief organizer!
+
+**Reminder:** No class next week. Assignment is due on the Friday before the next class. 
 
 ## Assignment
 
@@ -309,7 +311,7 @@ Plan system must be visible to me, other journalists, for where you are at, what
 
 **Skill building:** We'll have a guest speaker talk about how to use DomainTools.
 
-**Investigations:** You'll present your status report to the entire class for feedback and retooling. We will also consider images, charts, interactives. And we'll draft plans for how you might engage your audience to help you. 
+**Investigations:** You'll present your status report to the entire class for feedback and retooling. We will consider images, charts, interactives you may want to include in your project. We'll draft plans for how you might engage your audience to help you. 
 
 
 ## Assignment
@@ -327,15 +329,26 @@ Plan system must be visible to me, other journalists, for where you are at, what
 
 **Inveatigations:** Collaboration time. And together incorporate the edits for your participation piece. 
 
+## Assignment 
+
+As a team, prepare a 10-minute presentation to include:
+- Your thesis and headline
+- The sections of your story outline, explaining the key sections and how piece unfolds
+- Imagery planned
+- Charts planned, if any 
+- Inteactives planned, if any
+
 # Class 6 • Mar 9
 
 **Skill building:** Machine learning for invesigations I - images
 
-**Inveatigations:** Writing your first draft. 
+**Inveatigations:** presentations and feedback. Starting your first draft. 
 
 ## Assignment
 
+Work with your teammates to begin a first draft. You must make some demonstrable progress. 
 
+Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel.
 
 # Class 7 • Mar 16
 
@@ -347,6 +360,8 @@ Plan system must be visible to me, other journalists, for where you are at, what
 
 First draft due. 
 
+Submit first draft as a link to your document labeled "FIRST DRAFT" and your team name in the `#general` Slack channel. 
+
 # Class 8 • Mar 23
 
 **Skill building:** Basic data analysis using Python. 
@@ -355,32 +370,65 @@ First draft due.
 
 # Class 9 • Mar 30
 
+**Skill Building:** Legal considerations for online investigations. 
+
 **Investigations:** Work in class on final story. 
 
 ## assignment 
 
-Submit final story 
+Final story due.
+
+Submit final story as a Google Docs link labeled "FINAL STORY" and your team name in the `#general` Slack channel.
 
 # Class 10 • Apr 6
 
+**Investigations:** Review and approve final edits. Pursue any 
+
 **Reminder:** No class next week.
 
-## assignment 
+## Assignment 
 
 No spring break assignment. Everyone gets 3 points. 
 
 # Class 11 • April 20
 
-**Investigations:** Assemble final stories for publication. 
+**Skill building:** Systematic fact checking. Getting and incorporating comment from subjects of your reporting. 
+
+**Investigations:** Fact check your stories. Seek comment from anyone who hasn't been reached for your story.
+
+## Assignment 
+
+Fact-checked document due as a Google docs link labeled "FACT-CHECKED" and your team name in the `#general` Slack channel.
+ 
 
 # Class 12 • Apr 27
 
-**Investigations:** Report on reader feedback, tips, etc. 
+**Skill-building:** Crafting artcle & SEO headlines, and considering a "growth" plan. 
+
+**Investigations:** Assemble final stories for publication. Plan rollout, including social media. 
+
+## Assignment 
+
+Coordinate with me and your teammates to execute the rollout plan. All communications happen in the team channel. 
 
 # Class 13 • May 4
 
+**Investigations:** Report on reader feedback, tips, etc. Shape follow-up story. Begin writing. 
+
+## Assignment 
+
+Follow-up story due.
+
+Submit final story as a Google docs link labeled "FOLOW-UP STORY" and your team name in the `#general` Slack channel. 
+
 # Class 14 • May 11
+
+**Investigations:** Incorporate edits into follow-up story and prepare for publication, including any rollout plan. 
+
+## Assignment 
+
+Coordinate with John and/or other Quartz staff on publication and social media for follow-up story. All teammates participate.
 
 # Class 15 • May 18
 
-
+**Investigations:** Project reviews: I like, I wish, What if?

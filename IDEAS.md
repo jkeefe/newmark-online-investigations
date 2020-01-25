@@ -187,11 +187,24 @@ Let's talk about security. We'll get into how you can start practicing better pe
 - Are we punching up?
 - Is it something hidden, intentionally or otherwise?
 - Is there a remedy we can identify?
-- Has someone else done this in a way we couldn't do better?
+- Has someone else done this recently and in a way we couldn't do better?
 
 ## Tools
 
 - https://hoaxy.iuni.iu.edu/
+
+## Worksheet
+
+Grab from what we did for metals. 
+
+Add ...
+
+- images
+- charts
+- interactives
+- callout
+- description 
+- story urls
 
 
 
