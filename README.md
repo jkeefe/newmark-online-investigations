@@ -141,7 +141,7 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 - Walk through everything at the top of this document, and answer any questions you may have.
 - Discuss the creation of the [Quartz investigations team](https://qz.com/1703981/quartz-will-use-audience-and-ai-to-investigate-online-political-influence/) including what encompasses "online political influence" and "[The New Propaganda](https://qz.com/on/new-propaganda/)"
 
-- Conduct a quick survey
+- Take a quick [class survey](https://forms.gle/agaTdodB2TBVp1et5)
     
 **[Break]**
 
@@ -200,9 +200,16 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 
 Let's find out ...
 
-- Facebook
-- Instagram
+Facebook
+
+Instagram, from [thenextweb](https://thenextweb.com/basics/2019/08/30/instagram-ads-list-interests/):
+
+```
+"There are two slightly different paths to finding the list depending if you’re on mobile or the desktop site. To get to the list on mobile, go to Settings, then Security. Go to Access Data, then scroll all the way down to the bottom, where you’ll see Ad Interests, and select “View All.” On desktop, go to Settings, then Privacy & Security. Select “View Account Data,” and you’ll find Ad Interests at the bottom right."
+```
+
 - Twitter
+    - 
 - Google
 - Apple
 
