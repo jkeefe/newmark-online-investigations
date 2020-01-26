@@ -196,22 +196,21 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
     
 **Participation alert:** As you see ads and messages in your accounts, screenshot the political ones and post them in the `#spotted` channel. 
 
-**What do platforms know about you?**
+**What do platforms think you like?**
 
 Let's find out ...
 
-Facebook
+Instagram, from [thenextweb](https://thenextweb.com/basics/2019/08/30/instagram-ads-list-interests/): "There are two slightly different paths to finding the list depending if you’re on mobile or the desktop site. To get to the list on mobile, go to Settings, then Security. Go to Access Data, then scroll all the way down to the bottom, where you’ll see Ad Interests, and select “View All.” On desktop, go to Settings, then Privacy & Security. Select “View Account Data,” and you’ll find Ad Interests at the bottom right."
 
-Instagram, from [thenextweb](https://thenextweb.com/basics/2019/08/30/instagram-ads-list-interests/):
+Twitter: [Click this link](https://twitter.com/settings/your_twitter_data/twitter_interests/interest) and log into Twitter (if you aren't already). 
 
-```
-"There are two slightly different paths to finding the list depending if you’re on mobile or the desktop site. To get to the list on mobile, go to Settings, then Security. Go to Access Data, then scroll all the way down to the bottom, where you’ll see Ad Interests, and select “View All.” On desktop, go to Settings, then Privacy & Security. Select “View Account Data,” and you’ll find Ad Interests at the bottom right."
-```
+Google: If you're logged in, you can [get to your ad data here](https://myaccount.google.com/data-and-personalization). Note that there is LOTS more in your Google account settings tracking what Google knows about you. [Read more from Gizmodo](https://gizmodo.com/everything-google-knows-about-you-and-how-to-delete-it-1834633034). 
 
-- Twitter
-    - 
-- Google
-- Apple
+Apple (iPhone): Follow [these steps from WikiHow](https://www.wikihow.com/View-Apple-Ad-Information-on-an-iPhone).
+
+Facebook: 
+- Settings > Your Facebook Information > Access your information > Ads and businesses > Ad interests > Your interests
+- Settings > Your Facebook Information > Off-Facebook Activity
 
 - Take notes on these questions:
   - What were you surprised they knew?
@@ -226,18 +225,18 @@ Instagram, from [thenextweb](https://thenextweb.com/basics/2019/08/30/instagram-
 
 - What we mean when we say "investigative journalism."
 - **Class criteria** for our pursuits:
-
-  - Does it fit the mission: "
+  - Does it fit the Quartz investigations mission: "We will investigate and expose efforts to influence, engage, confuse, and divide the US electorate ahead of the 2020 presidential election. We’ll take a close look at the companies, systems, governments, and other actors involved in those efforts -- and call them out when appropriate."
   - Would uncovering this be a civic good?
   - Are there victims?
   - Are we punching up?
-  - Is it something hidden, intentionally or otherwise?
+  - Are we shedding light on something hidden, intentionally or otherwise?
   - Is there a remedy we can identify?
+  - Can we involve the audience in the investigation?
   - Has someone else done this recently and in a way we couldn't do better?
   
 - What it means to run an open investigation
 - Having a social-media / tips / data / story / tips / etc plan
-  - Quartz callouts
+  - Quartz callouts, [like this one](https://qz.com/1788795/heres-what-you-should-know-about-the-2020-us-census/).
   - [Recent ProPublica call out](https://twitter.com/propublica/status/1220700413143474177?s=21)
   - Farhenthod's callouts
 - Who else is doing this kind of work?
@@ -259,8 +258,8 @@ Instagram, from [thenextweb](https://thenextweb.com/basics/2019/08/30/instagram-
 
 ## Assignment
 
-- **Find** three press articles that touch on three different issues that interest you and you think might be ripe for investigating further. 
-- **Post** a separate Slack message about each article in the `#coverage` channel that includes a link to the article and sentence or two explaining a) what caught your eye and b) how we might build on it with an investigation. You can't post an article someone else has already posted! So act fast :-)
+- **Find** three press articles that touch on three different issues that interest you and you think might be ripe for investigating further. Make one of them coverage of these issues in _another country_.
+- **Post** a separate Slack message about each article in the `#coverage` channel that includes a link to the article and sentence or two explaining a) what caught your eye and b) how we might build on it with an investigation. A catch: You can't post an article someone else has already posted! So act fast :-)
 - **Read** the Senate intelligence committee report on Russia's interference in the 2016 US election (Volume 2 - [Russia's use of Social Media](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf) Look for the parts you find particularly interesting. 
 
 Due by 5 pm on the Friday prior to the next class.
@@ -288,7 +287,6 @@ Each team crafts TWO story pitches, each consisting of:
 Write each pitch as a separate google doc in our shared class folder and post the links to each document in your team slack. An example doc is in the class folder. 
 
 Due by 5 pm this Friday — so be sure to meet again with your team this week to complete it. 
-
 
 # Class 3 • Feb 10
 
@@ -330,6 +328,8 @@ They will also agree on a shared **system** for tracking what needs to be done, 
     - The most unexpected thing you found in your searches (tho don't reveal anything secret)
 - **Write** as a team your story for calling out participation in your story. 
 
+Due by 5 pm on the Friday prior to the next class.
+
 # Class 5 • Mar 2
 
 **Skill building:** Learn about building charts using Datawrapper.
@@ -345,6 +345,8 @@ As a team, prepare a 10-minute presentation to include:
 - Charts planned, if any 
 - Inteactives planned, if any
 
+This assignment is due _in class_, since you'll be making the presentations together then.
+
 # Class 6 • Mar 9
 
 **Skill building:** Machine learning for invesigations I - images
@@ -355,7 +357,9 @@ As a team, prepare a 10-minute presentation to include:
 
 Work with your teammates to begin a first draft. You must make some demonstrable progress. 
 
-Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel.
+Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel. 
+
+Due by 5 pm on the Friday prior to the next class.
 
 # Class 7 • Mar 16
 
@@ -369,6 +373,8 @@ First draft due.
 
 Submit first draft as a link to your document labeled "FIRST DRAFT" and your team name in the `#general` Slack channel. 
 
+Due by 5 pm on the Friday prior to the next class.
+
 # Class 8 • Mar 23
 
 **Skill building:** Basic data analysis using Python. 
@@ -381,6 +387,8 @@ Work with your teammates on the final story. You must show demonstrable progress
 
 Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel.
 
+Due by 5 pm on the Friday prior to the next class.
+
 # Class 9 • Mar 30
 
 **Skill Building:** Legal considerations for online investigations. 
@@ -392,6 +400,8 @@ Post a link to your document labeled "In Progress" and your team name in the `#g
 Final story due.
 
 Submit final story as a Google Docs link labeled "FINAL STORY" and your team name in the `#general` Slack channel.
+
+Due by 5 pm on the Friday prior to the next class.
 
 # Class 10 • Apr 6
 
@@ -412,7 +422,8 @@ No spring break assignment. Everyone gets 3 points.
 ## Assignment 
 
 Fact-checked document due as a Google docs link labeled "FACT-CHECKED" and your team name in the `#general` Slack channel.
- 
+
+Due by 5 pm on the Friday prior to the next class.
 
 # Class 12 • Apr 27
 
@@ -422,7 +433,9 @@ Fact-checked document due as a Google docs link labeled "FACT-CHECKED" and your 
 
 ## Assignment 
 
-Coordinate with me and your teammates to execute the rollout plan. All communications happen in the team channel. 
+Coordinate with me and your teammates to execute the rollout plan. Ensure all communications happen in the team channel ... or, if you meet in person, put a summary of that meeting in the team channel.
+
+Participation will be required this week at various points, depending on publication date.
 
 # Class 13 • May 4
 
@@ -434,6 +447,8 @@ Follow-up story due.
 
 Submit final story as a Google docs link labeled "FOLOW-UP STORY" and your team name in the `#general` Slack channel. 
 
+Due by 5 pm on the Friday prior to the next class.
+
 # Class 14 • May 11
 
 **Investigations:** Incorporate edits into follow-up story and prepare for publication, including any rollout plan. 
@@ -441,6 +456,8 @@ Submit final story as a Google docs link labeled "FOLOW-UP STORY" and your team 
 ## Assignment 
 
 Coordinate with John and/or other Quartz staff on publication and social media for follow-up story. All teammates participate.
+
+Due by 5 pm on the Friday prior to the next class ... though will likely be completed in class this week.
 
 # Class 15 • May 18
 
