@@ -9,7 +9,7 @@ Welcome to this special investigations class geared toward gaining real-world ex
 - investigate efforts to mislead citizens or undermine civic participation
 - analyze political advertising for trends and patterns in content and effect
 - collaborate with the Quartz audience to help spot efforts to mislead or divide them
-augment classic investigative reporting techniques with audience engagement, machine learning, and crowdsourcing tools
+- augment classic investigative reporting techniques with audience engagement, machine learning, and crowdsourcing tools
 - brainstorm, strategize, and plan story directions and lines of inquiry
 - work directly on stories, research, visualizations, or web applications 
 
@@ -122,7 +122,7 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 
 ## Notes
 
-### Kickoff
+**Kickoff**
 
 - Introductions
     - Around the room ...
@@ -143,9 +143,9 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
 
 - Conduct a quick survey
     
-### Break
+**[Break]**
 
-### Advertising & Privacy
+**Advertising & Privacy**
 
 - Consider the spectrum
   - You
@@ -194,9 +194,9 @@ Below is a rundown of what I expect we'll cover in our weeks together. Be very a
     - Political campaigns want to target people
     - Less-scrupulous companies want to target vulnerable people ... without tipping off watchdogs
     
-**Participation alert:** As you see ads and messages in your accounts, screenshot the political ones and post them in the `#spotted channel`. 
+**Participation alert:** As you see ads and messages in your accounts, screenshot the political ones and post them in the `#spotted` channel. 
 
-### What do platforms know about you?
+**What do platforms know about you?**
 
 Let's find out ...
 
@@ -211,11 +211,11 @@ Let's find out ...
   - What did they get completely wrong?
   - What did they say about your politics?
   
-### Organic Messaging
+**Organic Messaging**
 
 - Discuss the results of that survey
 
-### Invesigations
+**Investigations**
 
 - What we mean when we say "investigative journalism."
 - **Class criteria** for our pursuits:
@@ -356,7 +356,7 @@ Post a link to your document labeled "In Progress" and your team name in the `#g
 
 **Investigations:** Complete the first draft
 
-## assignment
+## Assignment
 
 First draft due. 
 
@@ -366,7 +366,13 @@ Submit first draft as a link to your document labeled "FIRST DRAFT" and your tea
 
 **Skill building:** Basic data analysis using Python. 
 
-**Investigations:** Consider feedback. Begin incorporating that and rewriting. 
+**Investigations:** Consider feedback. Begin incorporating that and rewriting.
+
+## Assignment
+
+Work with your teammates on the final story. You must show demonstrable progress. 
+
+Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel.
 
 # Class 9 • Mar 30
 
@@ -374,7 +380,7 @@ Submit first draft as a link to your document labeled "FIRST DRAFT" and your tea
 
 **Investigations:** Work in class on final story. 
 
-## assignment 
+## Assignment 
 
 Final story due.
 
@@ -382,7 +388,7 @@ Submit final story as a Google Docs link labeled "FINAL STORY" and your team nam
 
 # Class 10 • Apr 6
 
-**Investigations:** Review and approve final edits. Pursue any 
+**Investigations:** Review and approve edits.
 
 **Reminder:** No class next week.
 
