@@ -57,7 +57,7 @@ Please format your "display name" using your full name, a slash, and your role. 
 
 ## Google Drive
 
-We'll be using a shared Google Drive folder to keep track of important documents, the investigation plan, and who's doing what. 
+We'll be using a shared Google Drive folder to keep track of important documents, the investigation plan, and who's doing what. The link to this folder is pinned in the `#general` Slack channel.
 
 # Grading
 
@@ -274,7 +274,7 @@ Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector le
 
 We will also define our initial teams.
 
-### Assignment
+## Assignment
 
 Each team crafts TWO story pitches, each consisting of:
 
