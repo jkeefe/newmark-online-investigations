@@ -266,7 +266,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 2 • Feb 3
 
-**Anatomy of a Facebook Investigation** You'll learn about a powerful tool we have at our disposal — The Facebook Political Ad Collector — from one of its creators, Quartz's Jeremy B. Merrill. He'll walk you through how it works and how you can use it.
+**Skill building: Anatomy of a Facebook Investigation** You'll learn about a powerful tool we have at our disposal — The Facebook Political Ad Collector — from one of its creators, Quartz's Jeremy B. Merrill. He'll walk you through how it works and how you can use it.
 
 Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector led to a huge investigation into a gold- and silver-selling scheme that cheats conservative older people out of their retirement savings.
 
@@ -290,7 +290,7 @@ Due by 5 pm this Friday — so be sure to meet again with your team this week to
 
 # Class 3 • Feb 10
 
-**Working securely:** Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
+**Skill building:** Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
 
 **Investigations:** You will get feedback and possibly a green light for one of your pitches.
 
@@ -332,7 +332,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 5 • Mar 2
 
-**Skill building:** Learn about building charts using Datawrapper.
+**Skill building:** TBD based on inveatigations.
 
 **Inveatigations:** Collaboration time. And together incorporate the edits for your participation piece. 
 
@@ -349,7 +349,7 @@ This assignment is due _in class_, since you'll be making the presentations toge
 
 # Class 6 • Mar 9
 
-**Skill building:** Machine learning for invesigations I - images
+**Skill building:** Basic data analysis using Python. 
 
 **Inveatigations:** presentations and feedback. Starting your first draft. 
 
@@ -363,11 +363,13 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 7 • Mar 16
 
-**Skill building:** Machine learning for invesigations II - text
+**Skill building:** Machine learning for invesigations I - images
 
 **Investigations:** Complete the first draft
 
 ## Assignment
+
+**Skill building:** Machine learning for invesigations II - text
 
 First draft due. 
 
@@ -376,8 +378,6 @@ Submit first draft as a link to your document labeled "FIRST DRAFT" and your tea
 Due by 5 pm on the Friday prior to the next class.
 
 # Class 8 • Mar 23
-
-**Skill building:** Basic data analysis using Python. 
 
 **Investigations:** Consider feedback. Begin incorporating that and rewriting.
 
@@ -391,7 +391,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 9 • Mar 30
 
-**Skill Building:** Legal considerations for online investigations. 
+**Skill building:** Legal considerations for online investigations. 
 
 **Investigations:** Work in class on final story. 
 
@@ -404,6 +404,8 @@ Submit final story as a Google Docs link labeled "FINAL STORY" and your team nam
 Due by 5 pm on the Friday prior to the next class.
 
 # Class 10 • Apr 6
+
+**Skill building:** Building charts using Datawrapper.
 
 **Investigations:** Review and approve edits.
 
@@ -427,7 +429,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 12 • Apr 27
 
-**Skill-building:** Crafting artcle & SEO headlines, and considering a "growth" plan. 
+**Skill building:** Crafting artcle & SEO headlines, and considering a "growth" plan. 
 
 **Investigations:** Assemble final stories for publication. Plan rollout, including social media. 
 
