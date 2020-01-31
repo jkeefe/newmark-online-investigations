@@ -239,6 +239,7 @@ Facebook:
   - Quartz callouts, [like this one](https://qz.com/1788795/heres-what-you-should-know-about-the-2020-us-census/).
   - [Recent ProPublica call out](https://twitter.com/propublica/status/1220700413143474177?s=21)
   - Farhenthod's callouts
+  - [New York Times](https://www.nytimes.com/2020/01/29/us/elections/pay-off-student-loan-debt.html#click=https://t.co/eni73HU4hH)
 - Who else is doing this kind of work?
     - [Buzzfeed](https://twitter.com/JaneLytv/status/1219675021389582341?s=20)
     - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
