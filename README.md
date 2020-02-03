@@ -277,6 +277,7 @@ Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector le
   - Quartz callouts, [like this one](https://qz.com/1788795/heres-what-you-should-know-about-the-2020-us-census/).
   - [Recent ProPublica call out](https://twitter.com/propublica/status/1220700413143474177?s=21)
   - Farhenthod's callouts
+  - [New York Times](https://www.nytimes.com/2020/01/29/us/elections/pay-off-student-loan-debt.html#click=https://t.co/eni73HU4hH)
 - Who else is doing this kind of work?
     - [Buzzfeed](https://twitter.com/JaneLytv/status/1219675021389582341?s=20)
     - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
@@ -294,7 +295,7 @@ We'll review and discuss the stories you found and use those as a jumping-off po
 - **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. Use them on issues and sources related to your investigation. 
 - **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel.
 
-Due by 5 pm this Friday — so be sure to meet again with your team this week to complete it. 
+**Skill building: Anatomy of a Facebook Investigation** You'll learn about a powerful tool we have at our disposal — The Facebook Political Ad Collector — from one of its creators, Quartz's Jeremy B. Merrill. He'll walk you through how it works and how you can use it.
 
 # Class 3 • Feb 10
 
@@ -357,14 +358,29 @@ Collaboration time. And together incorporate the edits for your participation pi
     - Any additional (and optional) security steps you took
     - The most unexpected thing you found in your searches (tho don't reveal anything secret)
 - **Write** as a team your story for calling out participation in your story. 
-- **Continue** following your story plan and be prepared to give an update to the class on:
-  - Progess
-  - Blockers
-  - Next steps 
+
+Due by 5 pm on the Friday prior to the next class.
+
+# Class 5 • Mar 2
+
+**Skill building:** TBD based on inveatigations.
+
+**Inveatigations:** Collaboration time. And together incorporate the edits for your participation piece. 
+
+## Assignment 
+
+As a team, prepare a 10-minute presentation to include:
+- Your thesis and headline
+- The sections of your story outline, explaining the key sections and how piece unfolds
+- Imagery planned
+- Charts planned, if any 
+- Inteactives planned, if any
+
+This assignment is due _in class_, since you'll be making the presentations together then.
 
 # Class 6 • Mar 9
 
-**Skill building:** Machine learning for invesigations I - images
+**Skill building:** Basic data analysis using Python. 
 
 **Inveatigations:** presentations and feedback. Starting your first draft. 
 
@@ -378,11 +394,13 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 7 • Mar 16
 
-**Skill building:** Machine learning for invesigations II - text
+**Skill building:** Machine learning for invesigations I - images
 
 **Investigations:** Complete the first draft
 
 ## Assignment
+
+**Skill building:** Machine learning for invesigations II - text
 
 First draft due. 
 
@@ -391,8 +409,6 @@ Submit first draft as a link to your document labeled "FIRST DRAFT" and your tea
 Due by 5 pm on the Friday prior to the next class.
 
 # Class 8 • Mar 23
-
-**Skill building:** Basic data analysis using Python. 
 
 **Investigations:** Consider feedback. Begin incorporating that and rewriting.
 
@@ -406,7 +422,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 9 • Mar 30
 
-**Skill Building:** Legal considerations for online investigations. 
+**Skill building:** Legal considerations for online investigations. 
 
 **Investigations:** Work in class on final story. 
 
@@ -419,6 +435,8 @@ Submit final story as a Google Docs link labeled "FINAL STORY" and your team nam
 Due by 5 pm on the Friday prior to the next class.
 
 # Class 10 • Apr 6
+
+**Skill building:** Building charts using Datawrapper.
 
 **Investigations:** Review and approve edits.
 
@@ -442,7 +460,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 12 • Apr 27
 
-**Skill-building:** Crafting artcle & SEO headlines, and considering a "growth" plan. 
+**Skill building:** Crafting artcle & SEO headlines, and considering a "growth" plan. 
 
 **Investigations:** Assemble final stories for publication. Plan rollout, including social media. 
 
