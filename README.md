@@ -221,32 +221,6 @@ Facebook:
 
 - Discuss the results of that survey
 
-**Investigations**
-
-- What we mean when we say "investigative journalism."
-- **Class criteria** for our pursuits:
-  - Does it fit the Quartz investigations mission: "We will investigate and expose efforts to influence, engage, confuse, and divide the US electorate ahead of the 2020 presidential election. We’ll take a close look at the companies, systems, governments, and other actors involved in those efforts -- and call them out when appropriate."
-  - Would uncovering this be a civic good?
-  - Are there victims?
-  - Are we punching up?
-  - Are we shedding light on something hidden, intentionally or otherwise?
-  - Is there a remedy we can identify?
-  - Can we involve the audience in the investigation?
-  - Has someone else done this recently and in a way we couldn't do better?
-  
-- What it means to run an open investigation
-- Having a social-media / tips / data / story / tips / etc plan
-  - Quartz callouts, [like this one](https://qz.com/1788795/heres-what-you-should-know-about-the-2020-us-census/).
-  - [Recent ProPublica call out](https://twitter.com/propublica/status/1220700413143474177?s=21)
-  - Farhenthod's callouts
-- Who else is doing this kind of work?
-    - [Buzzfeed](https://twitter.com/JaneLytv/status/1219675021389582341?s=20)
-    - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
-    - [Snopes](https://twitter.com/alexkasprak/status/1212049188176846849?s=20)
-        - [EXCLUSIVE: Expanding Pro-Trump Outlet ‘The BL’ Is Closely Linked to The Epoch Times](https://www.snopes.com/news/2019/10/11/pro-trump-outlet-linked-epoch-times/)
-        - [How a Pro-Trump Network Is Building a Fake Empire on Facebook and Getting Away with It](https://www.snopes.com/news/2019/11/12/bl-fake-profiles/)
-        - [Hiding in Plain Sight: PAC-Connected Activists Set Up ‘Local News’ Outlets](https://www.snopes.com/news/2019/03/04/activists-setup-local-news-sites/)
-
 - You will be published!
   - Call-out stories to encourage participation in your project 
   - ANY good leads you may encounter foe this project, or just in life
@@ -255,6 +229,19 @@ Facebook:
 - Begin the brainstorming
     - Voice observations, curiosities, and concerns that might make for good investigations
     - Talk about platforms, communication channels, and more.
+    
+**Investigations** 
+
+- What we mean when we say "investigative journalism."
+- **Class criteria** for our pursuits:
+    - Does it fit the Quartz investigations mission: "We will investigate and expose efforts to influence, engage, confuse, and divide the US electorate ahead of the 2020 presidential election. We’ll take a close look at the companies, systems, governments, and other actors involved in those efforts -- and call them out when appropriate."
+    - Would uncovering this be a civic good?
+    - Are there victims?
+    - Are we punching up?
+    - Are we shedding light on something hidden, intentionally or otherwise?
+    - Is there a remedy we can identify?
+    - Can we involve the audience in the investigation?
+    - Has someone else done this recently and in a way we couldn't do better?
 
 ## Assignment
 
@@ -270,35 +257,35 @@ Due by 5 pm on the Friday prior to the next class.
 
 Jeremy and Quartz's Hanna Kozlowska will then talk about how the ad collector led to a huge investigation into a gold- and silver-selling scheme that cheats conservative older people out of their retirement savings.
 
-**Investigations** We'll review and discuss the stories you found and use those as a jumping-off point to explore and, we hope, zero in on avenues of exploration. 
+**Investigations** 
 
-We will also define our initial teams.
+- What we mean when we say "investigative journalism."
+- **Class criteria** for our pursuits:
+  - Does it fit the Quartz investigations mission: "We will investigate and expose efforts to influence, engage, confuse, and divide the US electorate ahead of the 2020 presidential election. We’ll take a close look at the companies, systems, governments, and other actors involved in those efforts -- and call them out when appropriate."
+  - Would uncovering this be a civic good?
+  - Are there victims?
+  - Are we punching up?
+  - Are we shedding light on something hidden, intentionally or otherwise?
+  - Is there a remedy we can identify?
+  - Can we involve the audience in the investigation?
+  - Has someone else done this recently and in a way we couldn't do better?
+  - Is there a testable hypothesis? (And what is it?)
+  - Can we ground this in primary sources? (And what are they?)
+  
+- What it means to run an open investigation
+- Having a social-media / tips / data / story / tips / etc plan
+  - Quartz callouts, [like this one](https://qz.com/1788795/heres-what-you-should-know-about-the-2020-us-census/).
+  - [Recent ProPublica call out](https://twitter.com/propublica/status/1220700413143474177?s=21)
+  - Farhenthod's callouts
+- Who else is doing this kind of work?
+    - [Buzzfeed](https://twitter.com/JaneLytv/status/1219675021389582341?s=20)
+    - [First Draft](https://firstdraftnews.org/) (click on the envelope for the newsletter)
+    - [Snopes](https://twitter.com/alexkasprak/status/1212049188176846849?s=20)
+        - [EXCLUSIVE: Expanding Pro-Trump Outlet ‘The BL’ Is Closely Linked to The Epoch Times](https://www.snopes.com/news/2019/10/11/pro-trump-outlet-linked-epoch-times/)
+        - [How a Pro-Trump Network Is Building a Fake Empire on Facebook and Getting Away with It](https://www.snopes.com/news/2019/11/12/bl-fake-profiles/)
+        - [Hiding in Plain Sight: PAC-Connected Activists Set Up ‘Local News’ Outlets](https://www.snopes.com/news/2019/03/04/activists-setup-local-news-sites/)
 
-## Assignment
-
-Each team crafts TWO story pitches, each consisting of:
-
-- A description of the story, including your base thesis, assuming it works out as you imagine (1 paragraph)
-- What you already know, or are pretty sure about (1 paragraph)
-- What you'd need to find out. (1 paragraph)
-- The headline. Assuming everything goes as you think it might.
-- Whether or not it fits into each item of our investigations checklist, and how it does or does not. (X sentences)
-
-Write each pitch as a separate google doc in our shared class folder and post the links to each document in your team slack. An example doc is in the class folder. 
-
-Due by 5 pm this Friday — so be sure to meet again with your team this week to complete it. 
-
-# Class 3 • Feb 10
-
-**Working securely:** Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
-
-**Investigations:** You will get feedback and possibly a green light for one of your pitches.
-
-Green-lighted teams will craft a **plan** to pursue your story and begin following leads, conducting research, collecting data, and testing your thesis.
-
-They will also agree on a shared **system** for tracking what needs to be done, and who is doing what. Plan system must be set up to be understandable and visible to me and other journalists. I should be able to scan it to see your progress, where you are at, what you need to do next, etc. Use what works best -- for all, or for the chief organizer!
-
-**Reminder:** No class next week. Assignment is due on the Friday before the next class. 
+We'll review and discuss the stories you found and use those as a jumping-off point to explore and, we hope, zero in on avenues of exploration. 
 
 ## Assignment
 
@@ -306,37 +293,41 @@ They will also agree on a shared **system** for tracking what needs to be done, 
 - **Follow along** with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19). Focus in particular on the tools Jane Lytvynenko uses starting on slide 31.
 - **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. Use them on issues and sources related to your investigation. 
 - **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel.
-- **Continue** following your story plan and be prepared to give an update to the class on:
-  - Progess
-  - Blockers
-  - Next steps 
 
+Due by 5 pm this Friday — so be sure to meet again with your team this week to complete it. 
+
+# Class 3 • Feb 10
+
+**Working securely:** Let's talk about security. We'll get into how you can start practicing better personal security and about how to act responsibly and ethically with the data you get from others.
+
+**Investigations:** We'll split into teams for investigations and start in on story pitches. 
+
+## Assignment
+
+Each team crafts TWO story pitches, each consisting of:
+
+- The headline. Assuming everything goes as you think it might.
+- A description of the story with your testable hypothesis
+- What you already know, or are pretty sure about (1 paragraph)
+- What you'd need to find out, include what you hope to use as primary sources. (1 paragraph)
+- Whether or not it fits into each item of our investigations checklist
+
+Write each pitch as a separate google doc in our shared class folder and post the links to each document in your team slack. An example doc is in the class folder. 
+
+**Reminder:** No class next week. Assignment is due on the Friday before the next class. 
 
 # Class 4 • Feb 24
 
 **Skill building:** We'll have a guest speaker talk about how to use DomainTools.
 
-**Investigations:** You'll present your status report to the entire class for feedback and retooling. We will consider images, charts, interactives you may want to include in your project. We'll draft plans for how you might engage your audience to help you. 
+**Investigations:** You will get feedback and possibly a green light for one of your pitches.
+
+Green-lighted teams will craft a **plan** to pursue your story and begin following leads, conducting research, collecting data, and testing your thesis.
+
+They will also agree on a shared **system** for tracking what needs to be done, and who is doing what. Plan system must be set up to be understandable and visible to me and other journalists. I should be able to scan it to see your progress, where you are at, what you need to do next, etc. Use what works best -- for all, or for the chief organizer!
 
 
 ## Assignment
-
-- **Follow** these instructions to [dox yourself](https://gijn.org/2019/04/08/how-to-dox-yourself/). Do all of the searches they describe, in each platform. Totally optional: Consider taking some of the additional security steps they suggest.
-- **Post** into the `#general` Slack channel:
-    - On your honor, a statement that you completed the assignment
-    - Any additional (and optional) security steps you took
-    - The most unexpected thing you found in your searches (tho don't reveal anything secret)
-- **Write** as a team your story for calling out participation in your story. 
-
-Due by 5 pm on the Friday prior to the next class.
-
-# Class 5 • Mar 2
-
-**Skill building:** Learn about building charts using Datawrapper.
-
-**Inveatigations:** Collaboration time. And together incorporate the edits for your participation piece. 
-
-## Assignment 
 
 As a team, prepare a 10-minute presentation to include:
 - Your thesis and headline
@@ -344,8 +335,32 @@ As a team, prepare a 10-minute presentation to include:
 - Imagery planned
 - Charts planned, if any 
 - Inteactives planned, if any
+- How you'll engage the audience
 
 This assignment is due _in class_, since you'll be making the presentations together then.
+
+Due by 5 pm on the Friday prior to the next class.
+
+# Class 5 • Mar 2
+
+**Skill building:** Learn about building charts using Datawrapper.
+
+**Inveatigations:** You'll present your status report to the entire class for feedback and retooling. We will consider images, charts, interactives you may want to include in your project. We'll draft plans for how you might engage your audience to help you. 
+
+Collaboration time. And together incorporate the edits for your participation piece. 
+
+## Assignment 
+
+- **Follow** these instructions to [dox yourself](https://gijn.org/2019/04/08/how-to-dox-yourself/). Do all of the searches they describe, in each platform. Totally optional: Consider taking some of the additional security steps they suggest.
+- **Post** into the `#general` Slack channel:
+    - On your honor, a statement that you completed the assignment
+    - Any additional (and optional) security steps you took
+    - The most unexpected thing you found in your searches (tho don't reveal anything secret)
+- **Write** as a team your story for calling out participation in your story. 
+- **Continue** following your story plan and be prepared to give an update to the class on:
+  - Progess
+  - Blockers
+  - Next steps 
 
 # Class 6 • Mar 9
 
