@@ -325,6 +325,7 @@ We'll review and discuss the stories you found and use those as a jumping-off po
 
 - Slide deck
 - [Other resources](https://gist.github.com/jkeefe/1f46ea3980bbfec6b3276eb771d0ead0)
+- Class confidentiality
 
 ## Assignment
 
