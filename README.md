@@ -290,7 +290,7 @@ We'll review and discuss the stories you found and use those as a jumping-off po
 
 ## Assignment
 
-- **Watch** [this online investigations video from ONA 2019](https://livestream.com/accounts/26035773/events/8806759/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false).
+- **Watch** [this online investigations video from ONA 2019](https://journalists.org/resources/digital-forensics-using-social-and-online-tools-to-find-great-stories/).
 - **Follow along** with [this slide deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19). Focus in particular on the tools Jane Lytvynenko uses starting on slide 31.
 - **Try** three of "Jane's tools and resources" ([on slide 49 of this deck](https://www.slideshare.net/onlinenewsassociation/digital-forensics-using-social-and-online-tools-to-find-great-stories-ona19)) to get a feel for how they work. Use them on issues and sources related to your investigation. 
 - **Post** a screenshot of something interesting you found using each tool (so three images total) into the `#general` Slack channel.
@@ -303,17 +303,50 @@ We'll review and discuss the stories you found and use those as a jumping-off po
 
 **Investigations:** We'll split into teams for investigations and start in on story pitches. 
 
+## Notes
+
+**Round-up discussion**
+
+- Results from the assignment from last week
+- Other findings and coverage from the past week
+- This story, via Allison: ["These Fake Local News Sites Have Confused People For Years. We Found Out Who Created Them."](https://www.buzzfeednews.com/amphtml/craigsilverman/these-fake-local-news-sites-have-confused-people-for-years)
+- Teams
+    - Members
+    - Team names
+    - Collaboration
+    - Assignment
+    - Realignment?
+    
+**BREAK**
+
+**New Hampshire election drill**
+
+**This week's skill-building lecture: Working Securely**
+
+- Slide deck
+- [Other resources](https://gist.github.com/jkeefe/1f46ea3980bbfec6b3276eb771d0ead0)
+
 ## Assignment
 
 Each team crafts TWO story pitches, each consisting of:
 
 - The headline. Assuming everything goes as you think it might.
-- A description of the story with your testable hypothesis
+- Your testable hypothesis (1 paragraph)
 - What you already know, or are pretty sure about (1 paragraph)
 - What you'd need to find out, include what you hope to use as primary sources. (1 paragraph)
-- Whether or not it fits into each item of our investigations checklist
+- Does it fits into each item on our investigations checklist (yes/no, plus one sentence of clarification):
+    - Does it fit the Quartz investigations mission: "We will investigate and expose efforts to influence, engage, confuse, and divide the US electorate ahead of the 2020 presidential election. We’ll take a close look at the companies, systems, governments, and other actors involved in those efforts -- and call them out when appropriate."
+    - Would uncovering this be a civic good?
+    - Are there victims?
+    - Are we punching up?
+    - Are we shedding light on something hidden, intentionally or otherwise?
+    - Is there a remedy we can identify?
+    - Can we involve the audience in the investigation?
+    - Has someone else done this recently and in a way we couldn't do better?
+- Your team tree
+- Your team members
 
-Write each pitch as a separate google doc in our shared class folder and post the links to each document in your team slack. An example doc is in the class folder. 
+Write each pitch as a separate google doc in our [shared class folder](https://drive.google.com/drive/folders/1Jo_vEDVIhw0-xybiBX3DoEG-6_TlgYrm) and post the links to each document in your team Slack. [An example doc](https://docs.google.com/document/d/1sbdY4QDGyQZ4PwiLW0bd_fHMEDqOzfF2x1rKY_Kv0QE/edit?usp=sharing) is in the class folder. 
 
 **Reminder:** No class next week. Assignment is due on the Friday before the next class. 
 
