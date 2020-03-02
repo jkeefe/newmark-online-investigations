@@ -361,7 +361,6 @@ Green-lighted teams will craft a **plan** to pursue your story and begin followi
 
 They will also agree on a shared **system** for tracking what needs to be done, and who is doing what. Plan system must be set up to be understandable and visible to me and other journalists. I should be able to scan it to see your progress, where you are at, what you need to do next, etc. Use what works best -- for all, or for the chief organizer!
 
-
 ## Assignment
 
 As a team, prepare a 10-minute presentation to include:
@@ -373,8 +372,6 @@ As a team, prepare a 10-minute presentation to include:
 - How you'll engage the audience
 
 This assignment is due _in class_, since you'll be making the presentations together then.
-
-Due by 5 pm on the Friday prior to the next class.
 
 # Class 5 • Mar 2
 
