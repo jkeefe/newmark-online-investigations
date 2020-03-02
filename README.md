@@ -364,6 +364,7 @@ They will also agree on a shared **system** for tracking what needs to be done, 
 ## Assignment
 
 As a team, prepare a 10-minute presentation to include:
+
 - Your thesis and headline
 - The sections of your story outline, explaining the key sections and how piece unfolds
 - Imagery planned
@@ -380,6 +381,7 @@ This assignment is due _in class_, since you'll be making the presentations toge
 **Inveatigations:** You'll present your status report to the entire class for feedback and retooling. We will consider images, charts, interactives you may want to include in your project. We'll draft plans for how you might engage your audience to help you. 
 
 We'll discus:
+
 - participation callout stories
 - planning your project
 - the road ahead
