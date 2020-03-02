@@ -379,35 +379,22 @@ This assignment is due _in class_, since you'll be making the presentations toge
 
 **Inveatigations:** You'll present your status report to the entire class for feedback and retooling. We will consider images, charts, interactives you may want to include in your project. We'll draft plans for how you might engage your audience to help you. 
 
-Collaboration time. And together incorporate the edits for your participation piece. 
+We'll discus:
+- participation callout stories
+- planning your project
+- the road ahead
+
+Collaboration time: Write the participation piece: 
 
 ## Assignment 
 
-- **Follow** these instructions to [dox yourself](https://gijn.org/2019/04/08/how-to-dox-yourself/). Do all of the searches they describe, in each platform. Totally optional: Consider taking some of the additional security steps they suggest.
-- **Post** into the `#general` Slack channel:
-    - On your honor, a statement that you completed the assignment
-    - Any additional (and optional) security steps you took
-    - The most unexpected thing you found in your searches (tho don't reveal anything secret)
-- **Write** as a team your story for calling out participation in your story. 
+We're crafting the participation portion of the project:
+
+- **Story:** As a team write your story for calling out participation in your investigation. Describe the project, and be specific in your ask: Who do you want to participate? What do you want to know from them? Use Google Docs to collaboratively write your story, which should be 300-500 words. When you're done post the link in the `#general` Slack channel.
+- **Form:** As a team, create a Google form to invite participation in your project. The form should have key questions you want people with knowledge to help you with. For inspiration, click into some of the callout forms on [ProPublica's "Get Involved" page](https://www.propublica.org/getinvolved/).
+- **Tweets:** At the bottom of your story document, write three tweets that you (and maybe Quartz) can use to explain what you're doing and encourage people to participate.
 
 Due by 5 pm on the Friday prior to the next class.
-
-# Class 5 • Mar 2
-
-**Skill building:** TBD based on inveatigations.
-
-**Inveatigations:** Collaboration time. And together incorporate the edits for your participation piece. 
-
-## Assignment 
-
-As a team, prepare a 10-minute presentation to include:
-- Your thesis and headline
-- The sections of your story outline, explaining the key sections and how piece unfolds
-- Imagery planned
-- Charts planned, if any 
-- Inteactives planned, if any
-
-This assignment is due _in class_, since you'll be making the presentations together then.
 
 # Class 6 • Mar 9
 
@@ -467,7 +454,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 10 • Apr 6
 
-**Skill building:** Building charts using Datawrapper.
+**Skill building:** TBD.
 
 **Investigations:** Review and approve edits.
 
@@ -491,7 +478,7 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 12 • Apr 27
 
-**Skill building:** Crafting artcle & SEO headlines, and considering a "growth" plan. 
+**Skill building:** Crafting article & SEO headlines, and considering a "growth" plan. 
 
 **Investigations:** Assemble final stories for publication. Plan rollout, including social media. 
 
