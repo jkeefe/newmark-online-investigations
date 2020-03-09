@@ -400,13 +400,15 @@ Due by 5 pm on the Friday prior to the next class.
 
 # Class 6 • Mar 9
 
-**Skill building:** Basic data analysis using Python. 
-
-**Inveatigations:** presentations and feedback. Starting your first draft. 
+**Inveatigations:** Feedback on your call-out stories. In-class team time. Starting your first draft. 
 
 ## Assignment
 
-Work with your teammates to begin a first draft. You must make some demonstrable progress. 
+Work with your teammates to begin a first draft. You must make some demonstrable progress by Friday. That should include:
+
+    - a rough outline
+    - a link to your planning document, or a summary of it, indicating progress made and steps to take
+    - a rough draft, including quotes, explainer paragraphs, and paragraph placeholders (in [square] brackets) in rough order
 
 Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel. 
 
