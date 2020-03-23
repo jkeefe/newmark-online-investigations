@@ -412,110 +412,108 @@ Work with your teammates to begin a first draft. You must make some demonstrable
 
 Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel. 
 
-Originally due by 5 pm on the Friday prior to the next class, but this has become optional due to the upending of our lives with coronavirus.
+Due by 5 pm on the Friday prior to the next class.
 
 # Class 7 • Mar 16
 
-Class canceled due to school shutdown for the prevention of coronavirus spread.
+**Skill building:** Machine learning for invesigations I - images
 
-# Class 8 • Mar 23
-
-**Skill Building:** You'll take the "First Python Notebook" [online class](https://palewi.re/posts/2020/03/21/flash-mooc-first-python-notebook/) from Ben Welsh. It happens this Saturday at noon. I'll be there!
-
-**Investigations:** A lot has changed since we first teamed up just a few weeks ago. Let's retool and see what we should pursue next.
+**Investigations:** Complete the first draft
 
 ## Assignment
 
-Sign up for and take the "First Python Notebook" [online class](https://palewi.re/posts/2020/03/21/flash-mooc-first-python-notebook/) from Ben Welsh. It happens this Saturday at noon.
+**Skill building:** Machine learning for invesigations II - text
 
-Meet with your new teammates and prepare an abbreviated pitch for your new story, to include:
+First draft due. 
 
-- The headline. Assuming everything goes as you think it might.
-- Your testable hypothesis (1 paragraph)
-- What you already know, or are pretty sure about (1 paragraph)
-- What you'd need to find out, include what you hope to use as primary sources. (1 paragraph)
-- Your team members
+Submit first draft as a link to your document labeled "FIRST DRAFT" and your team name in the `#general` Slack channel. 
 
-Post a link to the document in Slack with an @-mention of me so I see it! This part is due by 5 pm on the Friday prior to the next class.
+Due by 5 pm on the Friday prior to the next class.
+
+# Class 8 • Mar 23
+
+**Investigations:** Consider feedback. Begin incorporating that and rewriting.
+
+## Assignment
+
+Work with your teammates on the final story. You must show demonstrable progress. 
+
+Post a link to your document labeled "In Progress" and your team name in the `#general` Slack channel.
+
+Due by 5 pm on the Friday prior to the next class.
 
 # Class 9 • Mar 30
 
 **Skill building:** Legal considerations for online investigations. 
 
-**Investigations:** Work in class on your first draft. 
+**Investigations:** Work in class on final story. 
 
 ## Assignment 
 
-Work with your teammates to write a first draft. 
+Final story due.
 
-Post a link to the Google doc in Slack and be sure to @-mention me with the names of the people on your team. The document should have "DRAFT" in the title.
+Submit final story as a Google Docs link labeled "FINAL STORY" and your team name in the `#general` Slack channel.
 
-Due by 5 pm on Friday, April 3, 2020.
-
-These will be edited over the weekends. If possible review the edits before class starts Monday.
+Due by 5 pm on the Friday prior to the next class.
 
 # Class 10 • Apr 6
 
-**Skill building:** Introduction to machine learning for investigations, with demo.
+**Skill building:** TBD.
 
-**Investigations:** Discuss edits and next steps for each team.
+**Investigations:** Review and approve edits.
 
 **Reminder:** No class next week.
 
 ## Assignment 
 
-No spring break assignment. Everyone gets 3 points.
-
-Before spring break starts, or during spring break if everyone on your team is okay with that, you should meet with your team and work on various components of your story. It's due one week after you return from break.
+No spring break assignment. Everyone gets 3 points. 
 
 # Class 11 • April 20
 
-**Skill building:** Doxxing yourself for learning and good security.
-
-**Investigations:** Time provided to work together on your revisions.
-
-## Assignment 
-
-Edit revisions due. 
-
-Post a link to the shared Google Doc into Slack along with your team names and @-mention me. The document should have "REVISIONS" in the title. 
-
-Due 5 p.m. Friday, April 24, 2020.
-
-
-# Class 12 • Apr 27
-
 **Skill building:** Systematic fact checking. Getting and incorporating comment from subjects of your reporting. 
 
-**Investigations:** We'll be finishing and fact-checking your stories.
+**Investigations:** Fact check your stories. Seek comment from anyone who hasn't been reached for your story.
 
 ## Assignment 
 
-Fact-checked document due as a Google docs link, with all teammates names, in Slack. Be sure to @-mention me. The Google doc should have "FACT-CHECKED" in the title.
+Fact-checked document due as a Google docs link labeled "FACT-CHECKED" and your team name in the `#general` Slack channel.
 
 Due by 5 pm on the Friday prior to the next class.
 
-# Class 13 • May 4
+# Class 12 • Apr 27
 
-**Skill buildling:** Crafting article & SEO headlines, and considering an audience plan. 
+**Skill building:** Crafting article & SEO headlines, and considering a "growth" plan. 
 
-**Investigations:** Finish stories for publication. Plan rollout, including social media.
+**Investigations:** Assemble final stories for publication. Plan rollout, including social media. 
 
 ## Assignment 
 
-Final story due as a Google docs link, with all teammates names, in Slack. Be sure to @-mention me. The Google doc should have "FINAL" in the title.
+Coordinate with me and your teammates to execute the rollout plan. Ensure all communications happen in the team channel ... or, if you meet in person, put a summary of that meeting in the team channel.
+
+Participation will be required this week at various points, depending on publication date.
+
+# Class 13 • May 4
+
+**Investigations:** Report on reader feedback, tips, etc. Shape follow-up story. Begin writing. 
+
+## Assignment 
+
+Follow-up story due.
+
+Submit final story as a Google docs link labeled "FOLOW-UP STORY" and your team name in the `#general` Slack channel. 
 
 Due by 5 pm on the Friday prior to the next class.
 
 # Class 14 • May 11
 
-**Investigations:** Prepare for publication, including any rollout plan, audience plan, etc. 
+**Investigations:** Incorporate edits into follow-up story and prepare for publication, including any rollout plan. 
 
 ## Assignment 
 
-Coordinate with John and/or other Quartz staff on publication, including social media, fielding tips, etc. Be available for quick queries from Quartz editors about your story, including any final legal review.
+Coordinate with John and/or other Quartz staff on publication and social media for follow-up story. All teammates participate.
 
+Due by 5 pm on the Friday prior to the next class ... though will likely be completed in class this week.
 
 # Class 15 • May 18
 
-**Investigations:** Project reviews: I like, I wish, What if? Class wrap.
+**Investigations:** Project reviews: I like, I wish, What if?
