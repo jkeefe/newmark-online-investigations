@@ -472,13 +472,13 @@ Before spring break starts, or during spring break if everyone on your team is o
 
 **Skill building:** Doxxing yourself for learning and good security.
 
-**Investigations:** Time provided to work together on your revisions.
+**Investigations:** We'll review the status of the fear-mongering project. We'll also discuss the timeline for the rest of the term. 
+
+Time provided to work together.
 
 ## Assignment 
 
-Edit revisions due. 
-
-Post a link to the shared Google Doc into Slack along with your team names and @-mention me. The document should have "REVISIONS" in the title. 
+We'll discuss goals for this week.
 
 Due 5 p.m. Friday, April 24, 2020.
 
@@ -487,23 +487,23 @@ Due 5 p.m. Friday, April 24, 2020.
 
 **Skill building:** Systematic fact checking. Getting and incorporating comment from subjects of your reporting. 
 
-**Investigations:** We'll be finishing and fact-checking your stories.
+**Investigations:** We'll review the status of the projects and set goals for the week.
 
 ## Assignment 
 
-Fact-checked document due as a Google docs link, with all teammates names, in Slack. Be sure to @-mention me. The Google doc should have "FACT-CHECKED" in the title.
+TBD.
 
 Due by 5 pm on the Friday prior to the next class.
 
 # Class 13 • May 4
 
-**Skill buildling:** Crafting article & SEO headlines, and considering an audience plan. 
+**Skill building:** Crafting article & SEO headlines, and considering an audience plan. 
 
-**Investigations:** Finish stories for publication. Plan rollout, including social media.
+**Investigations:** We'll review the status of the projects and set goals for the week.
 
 ## Assignment 
 
-Final story due as a Google docs link, with all teammates names, in Slack. Be sure to @-mention me. The Google doc should have "FINAL" in the title.
+TBD. We have two weeks left.
 
 Due by 5 pm on the Friday prior to the next class.
 
